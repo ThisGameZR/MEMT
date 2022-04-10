@@ -1,3 +1,13 @@
+<div style="position:fixed; top:0; width:100vw; height:5vh; background:white; display:grid; grid-template-columns: 10% 20% 20% 20% 20%; justify-content: center; align-items: center;">
+  <a href="https://github.com/ThisGameZR/MEMT" style="font-size:1.5rem; text-align:center;">MEMT</a>
+  <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/SoftwareRequirements" style="font-size:1.1rem; text-align:center;">SRS</a>
+  <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/SystemOverview" style="font-size:1.1rem; text-align:center;">System Overview</a>
+  <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/UseCaseModel" style="font-size:1.1rem; text-align:center;">Use Case Model</a>
+  <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/API" style="font-size:1.1rem; text-align:center;">API reference</a>
+</div>
+
+<div style="height:5vh;"></div>
+
 # MEMT - MyCos Employee Mood Tracker
 
 ## **Summary**
@@ -44,18 +54,18 @@ When people are working individually it is easy to make people get stress and fe
 
 ## **Software Requirements and Specifications**
 
-[SOFTWARE REQURIEMENTS AND SPECIFICATIONS](./Document/SoftwareRequirements/SRS.md)
+[SOFTWARE REQURIEMENTS AND SPECIFICATIONS](./Document/SoftwareRequirements/README.md)
 
 ## **System Overview**
 
-[SYSTEM OVERVIEW](./Document/SystemOverview/SystemOverview.md)
+[SYSTEM OVERVIEW](./Document/SystemOverview/README.md)
 
 ## **Use Cases Model**
 
-[USE CASES MODEL](./Document/UseCasesModel/UseCasesModel.md)
+[USE CASES MODEL](./Document/UseCasesModel/README.md)
 
 ## **API Documentation**
 
-[API DOCUMENTATION](./Document/API/API.md)
+[API DOCUMENTATION](./Document/API/README.md)
 
 ## More will be documented soon...
