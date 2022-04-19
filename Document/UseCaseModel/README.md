@@ -6,6 +6,10 @@
   <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/API" style="font-size:1.1rem; text-align:center;">API reference</a>
 </div>
 
+### Use Case Diagram
+
+<img src="./UseCaseDiagram.png" alt="Use Case Diagram"/>
+
 ### **Note that:** User might often be called as Employee, and Employee might often be called as User in this document.
 
 ```
@@ -27,7 +31,7 @@ This Login page will contain a form with the following fields:
   1) Email (string) => email@mycostech.com
   2) Password (string) => ******
 
-This page will implment as OAuth2.0 to authenticate user under the domain mycostech.com.
+This page will implment using MSAL to authenticate user under the domain mycostech.com.
 
 Alternative Flow:
 If, in the Basic Flow, the visitor enter invalid email/password,
@@ -40,7 +44,7 @@ The visitor must visit the Login page before access any Member Section contents
 The visitor will be redirected to the Login page when try to access Member Section
 
 Post-Condtions:
-The username and password are authenticated with OAuth2.0 system.
+The username and password are authenticated with MSAL system.
 If the user exists, and credentials are correct, we redirect user to
 the Member Section page. if the user does not exist, or the user exists
 but the credentials does not match. we redirect the user to the
@@ -49,7 +53,7 @@ Basic Flow of this Use Case with an appropiate error message
 ```
 
 ```
-Use Case Name: First Time User
+Use Case Name: First Time Assessment
 Use Case ID: 002
 Actor Involved: User (Employee)
 

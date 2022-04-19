@@ -6,9 +6,13 @@
   <a href="https://github.com/ThisGameZR/MEMT/tree/main/Document/API" style="font-size:1.1rem; text-align:center;">API reference</a>
 </div>
 
-### <b style="text-decoration: underline">Use Case Diagram</b>
+### <b style="text-decoration: underline">System Function Overview</b>
 
-<img src="https://i.ibb.co/JcqPWQj/Untitled-Diagram-drawio.png" alt="Use Case Diagram"/>
+<img src="https://i.ibb.co/JcqPWQj/Untitled-Diagram-drawio.png" alt="System Function Overview"/>
+
+### <b style="text-decoration: underline">Database ER Diagram</b>
+
+<img src="../Database/database-model.png" alt="Database ER Diagram"/>
 
 ### <b style="text-decoration: underline">System Architecture Diagram</b>
 
