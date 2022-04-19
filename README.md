@@ -64,6 +64,10 @@ When people are working individually it is easy to make people get stress and fe
 
 [USE CASES MODEL](./Document/UseCasesModel/README.md)
 
+## **UI Design**
+
+[FIGMA DESIGN](https://www.figma.com/file/LfGlVkt7E79jsyLGENJWhK/Mycos-Employee-Mood-Tracker)
+
 ## **API Documentation**
 
 [API DOCUMENTATION](./Document/API/README.md)
